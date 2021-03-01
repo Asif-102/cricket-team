@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    text-align: center;
+    max-width: 100%;
+    background-color: #009270;
+    color: aliceblue;
+    font-size: xx-large;
+    padding: 10px;
+    border-bottom: 10px solid #E3E6E3;
+}
