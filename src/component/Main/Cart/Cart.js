@@ -10,7 +10,7 @@ const Cart = (props) => {
             <h2>Total Selected Players: {name.length}</h2>
             <h4>Added Players Name:</h4>
             <p>{name}</p>
-            <h5>Total Salary: <small>{totalSalary}{' '}</small>৳</h5>
+            <h5>Total Selected Players Salary: <small>{totalSalary}{' '}</small>৳</h5>
         </div>
     );
 };
