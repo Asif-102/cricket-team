@@ -3,7 +3,7 @@ import './Cart.css';
 const Cart = (props) => {
     const salary =  props.salary;
     const name = props.name;
-    console.log(name.length);
+    // console.log(name.length);
     const totalSalary = salary.reduce((total,cost)=>total+cost,0);
     return (
         <div className="cart">
